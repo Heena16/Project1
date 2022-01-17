@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Students Form</title>
+		<title>Students Form 1</title>
 		<?php 
 			$conn = mysqli_connect('localhost','root','','school');
 		?>
